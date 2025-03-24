@@ -1,6 +1,5 @@
-# Regressão Linear Simples com Backpropagation
-
-Este projeto demonstra a implementação de um modelo de rede neural simples usando o algoritmo de backpropagation para treinamento, explorando conceitos fundamentais de redes neurais.
+# Regressão Neural simples sem função de ativação
+Este projeto  implementa uma rede neural simples com um único neurônio artificial (perceptron). Ele demonstra os conceitos essenciais de redes neurais, como forward propagation, função de perda e backpropagation, em um contexto simplificado.
 
 ## Descrição
 
